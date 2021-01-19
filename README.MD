@@ -1,0 +1,1 @@
+La tecla B agranda el cubo naranja y la tecla P reduce su tamaño.
